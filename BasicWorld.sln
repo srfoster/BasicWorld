@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{15950274-61E4-03AE-4842-4F1230C8E55F}") = "BasicWorld", "Assembly-UnityScript-firstpass.unityproj", "{33364D31-4E3F-CCF7-831A-C48E62F408B5}"
+EndProject
+Project("{15950274-61E4-03AE-4842-4F1230C8E55F}") = "BasicWorld", "Assembly-UnityScript-Editor.unityproj", "{5DE27D02-3728-5A7A-C0C4-CB3409CBB2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33364D31-4E3F-CCF7-831A-C48E62F408B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33364D31-4E3F-CCF7-831A-C48E62F408B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33364D31-4E3F-CCF7-831A-C48E62F408B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33364D31-4E3F-CCF7-831A-C48E62F408B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE27D02-3728-5A7A-C0C4-CB3409CBB2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE27D02-3728-5A7A-C0C4-CB3409CBB2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE27D02-3728-5A7A-C0C4-CB3409CBB2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE27D02-3728-5A7A-C0C4-CB3409CBB2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
